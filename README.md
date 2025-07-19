@@ -1,5 +1,7 @@
 🌟 Freelance Frontend Delivery – Testimonial Website
+
 ✅ Delivered in Under Half a Day
+
 My client needed a quick and clean testimonial-based website, and I delivered the complete frontend in less than half a day using modern technologies and rapid prototyping with Lovable.
 
 🔗 Project URL:
